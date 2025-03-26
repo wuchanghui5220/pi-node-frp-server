@@ -24,7 +24,7 @@ A one-click deployment script for setting up a secure [frp](https://github.com/f
 Connect to your server via SSH and run:
 
 ```bash
-wget -O frp-deploy.sh https://raw.githubusercontent.com/yourusername/frp-server-deploy/main/frp-deploy.sh
+wget -O frp-deploy.sh https://raw.githubusercontent.com/wuchanghui5220/pi-node-frp-server/main/frp-deploy.sh
 chmod +x frp-deploy.sh
 sudo bash frp-deploy.sh
 ```
