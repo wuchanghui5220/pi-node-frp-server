@@ -1,6 +1,6 @@
 # FRP Server Deployment Script
 
-A one-click deployment script for setting up a secure [frp](https://github.com/fatedier/frp) (Fast Reverse Proxy) server on AWS or other Linux servers. This script automates the entire deployment process, making it easy to establish a reliable and secure reverse proxy.
+A one-click deployment script for setting up a secure [frp](https://github.com/fatedier/frp) (Fast Reverse Proxy) server on AWS or other Linux servers. Designed specifically for creating a secure proxy for Pi-node port forwarding, this script automates the entire deployment process, making it easy to establish a reliable and secure connection to your Pi-node services from anywhere.
 
 ## Features
 
